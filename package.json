@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^1.6.7",
+    "discord.js": "^14.14.1",
+    "mercadopago": "^1.5.13",
+    "wio.db": "^4.0.22"
+  },
+  "name": "Arcade Store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@Correa10K",
+  "license": "ISC",
+  "description": ""
+}

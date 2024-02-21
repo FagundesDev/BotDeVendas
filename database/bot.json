@@ -1,0 +1,18 @@
+{
+    "vendas": true,
+    "acesstoken": "APP_USR-150534012382720-021116-ac3c2a9a6fc09f6294c0263ba9950e59-1235867052",
+    "pix": true,
+    "qrcode": true,
+    "pagarsite": true,
+    "semi": false,
+    "semiauto": {
+        "pix": "",
+        "qrcode": "",
+        "role": "1205949706921054305",
+        "tipo": ""
+    },
+    "termos": "Olá, seja muito bem-vindo a Arcade Store, antes de realizar uma compra em nossa loja, atente-se sempre aos termos para que não ocorra nenhum tipo de problema futuramente.\n\n🎁 Entrega do Produto\nSó entregamos o produto logo após a confirmação de pagamento.\n\n🧧 Pronta Entrega\nAlguns de nossos produtos são entregues na mesma hora, porém fique ciente que teremos o prazo de até 72 horas para a entrega ser feita.\n\n⏰ Tempo de uso\nEm produtos resgatáveis, caso não resgate o produto na hora de enviado, não iremos fazer trocas ou até mesmo reembolso depois.\n\n🫰 Reembolso\nNão nos responsabilizamos por nenhum produto após entrega, só devolvemos o dinheiro caso não for entregue no prazo, não fazemos por mal uso e nem por desistência do produto.\n\n✅ Garantia\nAntes de comprar, verifique se o produto tem garantia, pois não faremos a devolução do mesmo se cair, então por favor, fique ciente.\n\n🚫 Proibido conteúdo inapropriado\nIsso inclui mas não se limita a mídia sensível/NSFW, \"humor pesado\", conteúdo adulto e conotação sexual ou sugestiva desnecessária. É proibido referências a extremismo, mesmo em tom de ironia ou meme.\n\n📑 Não atrapalhe o fluxo dos canais\nPor favor não envie spam, flood, correntes ou qualquer coisa que atrapalhe o fluxo dos canais. Não tente burlar nossos filtros automáticos - eles existem por um motivo.\n\n📵 Sem divulgação ou autopromoção\nNão faça propaganda, divulgue ou ofereça algo de forma generalizada, exceto se autorizado.\n\n🪪 Não peça ou compartilhe informações pessoais\nNão pergunte ou compartilhe idade, fotos (exceto de figuras públicas), endereço, número de telefone etc. Você pode ser moderado se acharmos que você não está seguro com suas próprias informações ou que está pedindo informações que você não deveria ter.",
+    "channel_logs": "1205949709664129106",
+    "role": "1205949706921054302",
+    "category": "1209304369313488948"
+}
